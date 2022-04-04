@@ -30,3 +30,7 @@ Snake And Ladders Game
     Architecture:
     
   ![WhatsApp Image 2022-04-04 at 14 50 20](https://user-images.githubusercontent.com/87416068/161514174-2c367dc6-fb19-4d74-a740-d4979af933c3.jpeg)
+  
+  Tools Used:
+    1.GCC Compiler
+    2.c/c++ interpreter ch 5.0
