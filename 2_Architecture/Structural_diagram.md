@@ -1,8 +1,9 @@
        Structural Diagram:
            1. Structural Diagrams Structure diagrams depict the static structure of the elements in your system. i.e., how one object relates to another.
            2. It shows the things in the system – classes, objects, packages or modules, physical nodes, components, and interfaces.
-        ![image](https://user-images.githubusercontent.com/87416068/161508569-2294af7f-c584-412c-9c24-550da4c6a801.png)
-      
+       
+      ![WhatsApp Image 2022-04-04 at 14 22 56](https://user-images.githubusercontent.com/87416068/161509296-9879158f-4fcf-448d-ac5a-d55bf1fb43f5.jpeg)
+
       In the above diagram describe the structural and behaviour diagram:
 
           Structure diagrams depict the static structure of the elements in your system. i.e., how one object relates to another. It shows the things in the system – classes, objects, packages or modules, physical nodes, components, and interfaces.
